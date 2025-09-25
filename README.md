@@ -40,7 +40,7 @@
 
 Зачётный проект по курсу от Samsung по Java: https://github.com/Jamesking4/PingPong
 
-## Дополнительно: Блок кода
+## Небольшой код
 ```python
 def greet(name):
   """Приветствует пользователя по имени."""
